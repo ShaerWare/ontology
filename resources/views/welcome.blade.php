@@ -7,13 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <!--metatextblock-->
     <title>Консалтинговое агентство</title>
     <meta name="description" content="Пример того, как можно рассказать о компании" />
-    <meta property="og:url" content="http://ontologyai.tilda.ws" />
+    <meta property="og:url" content="" />
     <meta property="og:title" content="Консалтинговое агентство" />
     <meta property="og:description" content="Пример того, как можно рассказать о компании" />
     <meta property="og:type" content="website" />
     <meta property="og:image"
         content="https://thb.tildacdn.com/tild6335-3166-4166-a335-643939336261/-/resize/504x/workplace1245776_1920.jpg" />
-    <link rel="canonical" href="http://ontologyai.tilda.ws"><!--/metatextblock-->
+    <link rel="canonical" href=""><!--/metatextblock-->
     <meta name="format-detection" content="telephone=no" />
     <meta http-equiv="x-dns-prefetch-control" content="on">
     <link rel="dns-prefetch" href="https://ws.tildacdn.com">
@@ -1925,19 +1925,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
         <div id="rec795405484" class="r t-rec t-rec_pt_60 t-rec_pb_45"
             style="padding-top:60px;padding-bottom:45px;background-color:#0d0d0d; " data-record-type="106"
             data-bg-color="#0d0d0d"><!-- T004 -->
-            <div class="t004">
-                <div class="t-container t-align_center">
-                    <div class="t-col t-col_8 t-prefix_2">
-                        <div field="text" class="t-text t-text_md ">
-                            <div style="font-size: 14px;" data-customstyle="yes">PHOTO CREDITS: <a
-                                    href="https://www.rawpixel.com/">rawpixel.com</a><br /><br /><span
-                                    style="color: rgb(127, 127, 127); font-size: 14px;"> </span><br />Все фотографии,
-                                тексты и видеоматериалы принадлежат их владельцам и использованы для демонстрации.
-                                Пожалуйста, не используйте контент шаблона в коммерческих целях.</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
             <style>
                 #rec795405484 .t-text {
                     color: #d1d1d1;
@@ -1945,13 +1933,13 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
             </style>
         </div>
     </div><!--/allrecords--><!-- Tilda copyright. Don't remove this line -->
-    <div class="t-tildalabel " id="tildacopy" data-tilda-sign="10532987#54537485"><a href="https://tilda.cc/"
+    <div class="t-tildalabel " id="tildacopy" data-tilda-sign="10532987#54537485"><a href=""
             class="t-tildalabel__link">
             <div class="t-tildalabel__wrapper">
                 <div class="t-tildalabel__txtleft">Made on </div>
                 <div class="t-tildalabel__wrapimg"><img src="https://static.tildacdn.com/img/tildacopy.png"
                         class="t-tildalabel__img" fetchpriority="low" alt=""></div>
-                <div class="t-tildalabel__txtright">Tilda</div>
+                <div class="t-tildalabel__txtright">OntologyAI</div>
             </div>
         </a></div><!-- Stat -->
     <script type="text/javascript">
