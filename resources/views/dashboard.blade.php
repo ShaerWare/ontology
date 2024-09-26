@@ -1,8 +1,19 @@
 <x-app-layout>
     <x-slot name="header">
-        <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('Dashboard') }}
-        </h2>
+
+            <div class="flex flex-wrap items-center justify-between mb-4">
+              <h2 class="text-lg font-medium leading-6 text-gray-900" >
+                <a href="">{{ __('Общая') }}</a>
+              </h2>
+              <h2 class="text-lg font-medium leading-6 text-gray-900" >
+                <a href="">{{ __('Пользователи') }}</a>
+              </h2>
+              <h2 class="text-lg font-medium leading-6 text-gray-900">
+                <a href="">{{ __('Роли') }}</a>
+              </h2>
+            </div>
+
+
     </x-slot>
 
     <div class="py-12">
