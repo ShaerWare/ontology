@@ -6,10 +6,10 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <!--metatextblock-->
     <title>Консалтинговое агентство</title>
-    <meta name="description" content="Пример того, как можно рассказать о компании" />
+    <meta name="description" content="Инновационная система генерации знаний в области стратегического менеджмента " />
     <meta property="og:url" content="" />
-    <meta property="og:title" content="Консалтинговое агентство" />
-    <meta property="og:description" content="Пример того, как можно рассказать о компании" />
+    <meta property="og:title" content="OntologyAI" />
+    <meta property="og:description" content="Инновационная система генерации знаний в области стратегического менеджмента " />
     <meta property="og:type" content="website" />
     <meta property="og:image"
         content="https://thb.tildacdn.com/tild6335-3166-4166-a335-643939336261/-/resize/504x/workplace1245776_1920.jpg" />
