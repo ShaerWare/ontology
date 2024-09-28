@@ -903,21 +903,11 @@
         <!-- Start::Off-canvas sidebar-->
         <div class="offcanvas offcanvas-end" tabindex="-1" id="header-sidebar" aria-labelledby="sidebarLabel">
             <div class="offcanvas-header rounded-0">
-                <h5 class="fs-14 text-uppercase mb-0 fw-semibold" id="sidebarLabel">Notifications</h5>
+                <h5 class="fs-14 text-uppercase mb-0 fw-semibold" id="sidebarLabel">{{ _('Wiki')}}</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
             </div>
             <div class="offcanvas-body rounded-0 p-0">
-                <ul class="nav nav-tabs tab-style-1 d-block" role="tablist">
-                    <li class="nav-item" role="presentation">
-                        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#chat" aria-current="page" href="#chat" aria-selected="false" role="tab" tabindex="-1"><i class="fe fe-message-circle fs-15 me-2"></i>Chat</a>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <a class="nav-link" data-bs-toggle="tab" data-bs-target="#notifications" href="#notifications" aria-selected="false" role="tab" tabindex="-1"><i class="fe fe-bell fs-15 me-2"></i> Notifications</a>
-                    </li>
-                    <li class="nav-item mb-0" role="presentation">
-                        <a class="nav-link active" data-bs-toggle="tab" data-bs-target="#friends" href="#friends" aria-selected="true" role="tab"><i class="fe fe-users fs-15 me-2"></i>Friends</a>
-                    </li>
-                </ul>
+
                 <div class="tab-content">
                     <div class="tab-pane border-start-0 border-end-0 rounded-0 p-0" id="chat" role="tabpanel">
                         <div class="list d-flex align-items-center border-bottom p-3">
