@@ -1366,7 +1366,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
                     </li>
                 </ul>
             </div>
-            <div class="t526">
+
                 <div class="t-section__container t-container t-container_flex">
                     <div class="t-col t-col_12 ">
                         <div class="t-section__title t-title t-title_xs t-align_center t-margin_auto" field="btitle">
