@@ -1289,7 +1289,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
                                 <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg loaded"
                                     data-original="https://static.tildacdn.com/tild3039-6136-4537-b132-623863366231/_2.png"
                                     bgimgfield="li_img__1477995899606"
-                                    style="background-image: url(&quot;https://optim.tildacdn.com/tild3039-6136-4537-b132-623863366231/-/cover/240x240/center/center/-/format/webp/_2.png&quot;);">
+                                    style="background-image: url('https://optim.tildacdn.com/tild3039-6136-4537-b132-623863366231/-/cover/240x240/center/center/-/format/webp/_2.png');">
                                 </div>
                             </div>
                             <div class="t524__wrappercenter">
@@ -1310,7 +1310,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
                                 <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg loaded"
                                     data-original="https://static.tildacdn.com/tild3137-6134-4461-b339-623432346561/__2024-09-28__231645.png"
                                     bgimgfield="li_img__1477996238469"
-                                    style="background-image: url(&quot;https://optim.tildacdn.com/tild3137-6134-4461-b339-623432346561/-/cover/240x240/center/center/-/format/webp/__2024-09-28__231645.png&quot;);">
+                                    style="background-image: url(https://optim.tildacdn.com/tild3137-6134-4461-b339-623432346561/-/cover/240x240/center/center/-/format/webp/__2024-09-28__231645.png);">
                                 </div>
                             </div>
                             <div class="t524__wrappercenter">
@@ -1352,7 +1352,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
                                 <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg loaded"
                                     data-original="https://static.tildacdn.com/tild3432-6139-4064-b965-663731653933/__2024-09-08__153106.png"
                                     bgimgfield="li_img__1477996467033"
-                                    style="background-image: url(&quot;https://optim.tildacdn.com/tild3432-6139-4064-b965-663731653933/-/cover/240x240/center/center/-/format/webp/__2024-09-08__153106.png&quot;);">
+                                    style="background-image: url(https://optim.tildacdn.com/tild3432-6139-4064-b965-663731653933/-/cover/240x240/center/center/-/format/webp/__2024-09-08__153106.png);">
                                 </div>
                             </div>
                             <div class="t524__wrappercenter">
