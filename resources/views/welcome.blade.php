@@ -9,7 +9,8 @@
     <meta name="description" content="Инновационная система генерации знаний в области стратегического менеджмента " />
     <meta property="og:url" content="" />
     <meta property="og:title" content="IITEAMSYSTEM" />
-    <meta property="og:description" content="Инновационная система генерации знаний в области стратегического менеджмента " />
+    <meta property="og:description"
+        content="Инновационная система генерации знаний в области стратегического менеджмента " />
     <meta property="og:type" content="website" />
     <meta property="og:image"
         content="https://thb.tildacdn.com/tild6335-3166-4166-a335-643939336261/-/resize/504x/workplace1245776_1920.jpg" />
@@ -771,7 +772,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
                                         безграничны</div>
                                     <div class="t001__title t-title t-title_xl t-animate"
                                         data-animate-style="fadeinup" data-animate-group="yes" field="title">
-                                        Трансформируйте знания <br />в конкурентное преимущество <br />с ITEAMSYSTEM
+                                        Трансформируйте знания <br />в конкурентное преимущество <br />с OntologyEntity
                                     </div>
                                     <div class="t001__descr t-descr t-descr_xl t001__descr_center t-animate"
                                         data-animate-style="fadeinup" data-animate-group="yes" field="descr">
@@ -812,7 +813,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
             <div class="t467">
                 <div class="t-container t-align_center">
                     <div class="t-col t-col_10 t-prefix_1">
-                        <div class="t467__title t-title t-title_lg t-margin_auto" field="title">ITEAMSYSTEM</div>
+                        <div class="t467__title t-title t-title_lg t-margin_auto" field="title">OntologyEntity</div>
                         <div class="t467__descr t-descr t-descr_xl t-margin_auto" field="descr">Мы создали передовую
                             платформу, которая объединяет технологии искусственного интеллекта и структурированных
                             знаний, чтобы помочь организациям ускорить цифровую трансформацию и повысить
@@ -837,7 +838,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
                 <div class="t-section__container t-container t-container_flex">
                     <div class="t-col t-col_12 ">
                         <div class="t-section__title t-title t-title_xs t-align_center t-margin_auto" field="btitle">
-                            Что такое ITEAMSYSTEM?</div>
+                            Что такое OntologyEntity?</div>
                         <div class="t-section__descr t-descr t-descr_xl t-align_center t-margin_auto" field="bdescr">
                             Это комплекс экспертных знаний в области стратегического управления и передовых технологий
                         </div>
@@ -922,7 +923,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
                 <div class="t-section__container t-container t-container_flex">
                     <div class="t-col t-col_12 ">
                         <div class="t-section__title t-title t-title_xs t-align_center t-margin_auto" field="btitle">
-                            Как ITEAMSYSTEM работает для вас?</div>
+                            Как OntologyEntity работает для вас?</div>
                         <div class="t-section__descr t-descr t-descr_xl t-align_center t-margin_auto" field="bdescr">
                             Это ваш помощник в создании сильной управленческой команды и принятии управленческих решений
                         </div>
@@ -1246,6 +1247,125 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
         </div>
         <div id="rec795456550" class="r t-rec t-rec_pt_150 t-rec_pb_150"
             style="padding-top:150px;padding-bottom:150px; " data-record-type="526"><!-- t526 -->
+            <div class="t524">
+                <div class="t-section__container t-container t-container_flex">
+                    <div class="t-col t-col_12 ">
+                        <div class="t-section__title t-title t-title_xs t-align_center t-margin_auto" field="btitle">
+                            Команда</div>
+                        <div class="t-section__descr t-descr t-descr_xl t-align_center t-margin_auto" field="bdescr">У
+                            нас уникальная команда и мы нашли друг друга, чтобы создать уникальный продукт. </div>
+                    </div>
+                </div>
+                <style>
+                    .t-section__descr {
+                        max-width: 560px;
+                    }
+
+                    #rec795456550 .t-section__title {
+                        margin-bottom: 40px;
+                    }
+
+                    #rec795456550 .t-section__descr {
+                        margin-bottom: 105px;
+                    }
+
+                    @media screen and (max-width: 960px) {
+                        #rec795456550 .t-section__title {
+                            margin-bottom: 20px;
+                        }
+
+                        #rec795456550 .t-section__descr {
+                            margin-bottom: 45px;
+                        }
+                    }
+                </style>
+                <ul role="list" class="t524__container t-list__container_inrow4 t-container">
+                    <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
+                        <div class="t524__itemwrapper t524__itemwrapper_4">
+                            <div class="t524__imgwrapper t-margin_auto" itemscope=""
+                                itemtype="http://schema.org/ImageObject">
+                                <meta itemprop="image"
+                                    content="https://static.tildacdn.com/tild3039-6136-4537-b132-623863366231/_2.png">
+                                <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg loaded"
+                                    data-original="https://static.tildacdn.com/tild3039-6136-4537-b132-623863366231/_2.png"
+                                    bgimgfield="li_img__1477995899606"
+                                    style="background-image: url(&quot;https://optim.tildacdn.com/tild3039-6136-4537-b132-623863366231/-/cover/240x240/center/center/-/format/webp/_2.png&quot;);">
+                                </div>
+                            </div>
+                            <div class="t524__wrappercenter">
+                                <div class="t524__persname t-name t-name_lg t524__bottommargin_sm"
+                                    field="li_persname__1477995899606">Александр Кочнев</div>
+                                <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1477995899606">
+                                    Менеджер проекта<br>Эксперт по стратегическому менеджменту и организационному
+                                    развитию</div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
+                        <div class="t524__itemwrapper t524__itemwrapper_4">
+                            <div class="t524__imgwrapper t-margin_auto" itemscope=""
+                                itemtype="http://schema.org/ImageObject">
+                                <meta itemprop="image"
+                                    content="https://static.tildacdn.com/tild3137-6134-4461-b339-623432346561/__2024-09-28__231645.png">
+                                <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg loaded"
+                                    data-original="https://static.tildacdn.com/tild3137-6134-4461-b339-623432346561/__2024-09-28__231645.png"
+                                    bgimgfield="li_img__1477996238469"
+                                    style="background-image: url(&quot;https://optim.tildacdn.com/tild3137-6134-4461-b339-623432346561/-/cover/240x240/center/center/-/format/webp/__2024-09-28__231645.png&quot;);">
+                                </div>
+                            </div>
+                            <div class="t524__wrappercenter">
+                                <div class="t524__persname t-name t-name_lg t524__bottommargin_sm"
+                                    field="li_persname__1477996238469">Михаил Алекс</div>
+                                <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1477996238469">
+                                    Менеджер продукта<br>Эксперт в области онтологической семантики, системного анализа
+                                    и моделирования</div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
+                        <div class="t524__itemwrapper t524__itemwrapper_4">
+                            <div class="t524__imgwrapper t-margin_auto" itemscope=""
+                                itemtype="http://schema.org/ImageObject">
+                                <meta itemprop="image"
+                                    content="https://static.tildacdn.com/tild6138-3565-4430-b436-393334636566/__2024-09-28__232040.png">
+                                <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg loaded"
+                                    data-original="https://static.tildacdn.com/tild6138-3565-4430-b436-393334636566/__2024-09-28__232040.png"
+                                    bgimgfield="li_img__1477996247186"
+                                    style="background-image: url(&quot;https://optim.tildacdn.com/tild6138-3565-4430-b436-393334636566/-/cover/240x240/center/center/-/format/webp/__2024-09-28__232040.png&quot;);">
+                                </div>
+                            </div>
+                            <div class="t524__wrappercenter">
+                                <div class="t524__persname t-name t-name_lg t524__bottommargin_sm"
+                                    field="li_persname__1477996247186">Артем Шер</div>
+                                <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1477996247186">
+                                    Руководитель разработки<br>Эксперт по информационным технологиям, базам данных,
+                                    веб-разработке</div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="t524__col t-col t-col_3 t-list__item t-align_center t524__col-mobstyle">
+                        <div class="t524__itemwrapper t524__itemwrapper_4">
+                            <div class="t524__imgwrapper t-margin_auto" itemscope=""
+                                itemtype="http://schema.org/ImageObject">
+                                <meta itemprop="image"
+                                    content="https://static.tildacdn.com/tild3432-6139-4064-b965-663731653933/__2024-09-08__153106.png">
+                                <div class="t524__bgimg t524__img_circle t-margin_auto t-bgimg loaded"
+                                    data-original="https://static.tildacdn.com/tild3432-6139-4064-b965-663731653933/__2024-09-08__153106.png"
+                                    bgimgfield="li_img__1477996467033"
+                                    style="background-image: url(&quot;https://optim.tildacdn.com/tild3432-6139-4064-b965-663731653933/-/cover/240x240/center/center/-/format/webp/__2024-09-08__153106.png&quot;);">
+                                </div>
+                            </div>
+                            <div class="t524__wrappercenter">
+                                <div class="t524__persname t-name t-name_lg t524__bottommargin_sm"
+                                    field="li_persname__1477996467033">Марина Ступакова</div>
+                                <div class="t524__persdescr t-descr t-descr_xxs" field="li_persdescr__1477996467033">
+                                    Менеджер по маркетингу<br>Эксперт маркетинговым коммуникациям, созданию и развитию
+                                    брендов</div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
             <div class="t526">
                 <div class="t-section__container t-container t-container_flex">
                     <div class="t-col t-col_12 ">
@@ -1872,18 +1992,17 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
                         <div class="t-sociallinks">
                             <ul role="list" class="t-sociallinks__wrapper" aria-label="Social media links">
                                 <!-- new soclinks -->
-                                 &nbsp;
-                                        <li
-                                    class="t-sociallinks__item t-sociallinks__item_telegram">
-                                    <a href="/"
-                                        target="_blank" rel="nofollow" aria-label="telegram"
+                                &nbsp;
+                                <li class="t-sociallinks__item t-sociallinks__item_telegram">
+                                    <a href="/" target="_blank" rel="nofollow" aria-label="telegram"
                                         style="width: 48px; height: 48px;"><svg class="t-sociallinks__svg"
                                             role="presentation" width=48px height=48px viewBox="0 0 100 100"
                                             fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path fill-rule="evenodd" clip-rule="evenodd"
                                                 d="M50 100c27.614 0 50-22.386 50-50S77.614 0 50 0 0 22.386 0 50s22.386 50 50 50Zm21.977-68.056c.386-4.38-4.24-2.576-4.24-2.576-3.415 1.414-6.937 2.85-10.497 4.302-11.04 4.503-22.444 9.155-32.159 13.734-5.268 1.932-2.184 3.864-2.184 3.864l8.351 2.577c3.855 1.16 5.91-.129 5.91-.129l17.988-12.238c6.424-4.38 4.882-.773 3.34.773l-13.49 12.882c-2.056 1.804-1.028 3.35-.129 4.123 2.55 2.249 8.82 6.364 11.557 8.16.712.467 1.185.778 1.292.858.642.515 4.111 2.834 6.424 2.319 2.313-.516 2.57-3.479 2.57-3.479l3.083-20.226c.462-3.511.993-6.886 1.417-9.582.4-2.546.705-4.485.767-5.362Z"
                                                 fill="#ffffff" />
-                                        </svg></a></li><!-- /new soclinks -->
+                                        </svg></a>
+                                </li><!-- /new soclinks -->
                             </ul>
                         </div>
                     </div>
