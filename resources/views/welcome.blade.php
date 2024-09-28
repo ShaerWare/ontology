@@ -8,7 +8,7 @@
     <title>Консалтинговое агентство</title>
     <meta name="description" content="Инновационная система генерации знаний в области стратегического менеджмента " />
     <meta property="og:url" content="" />
-    <meta property="og:title" content="OntologyAI" />
+    <meta property="og:title" content="IITEAMSYSTEM" />
     <meta property="og:description" content="Инновационная система генерации знаний в области стратегического менеджмента " />
     <meta property="og:type" content="website" />
     <meta property="og:image"
@@ -591,7 +591,7 @@
                 <div class="t228__maincontainer " style="height:100px;">
                     <div class="t228__padding40px"></div>
                     <div class="t228__leftside">
-                        <div class="t228__leftcontainer"><a href="http://tilda.cc" class="t228__imgwrapper">
+                        <div class="t228__leftcontainer"><a href="" class="t228__imgwrapper">
                                 <div class="t228__logo t-title" field="title">PBD CONSULTING</div>
                             </a></div>
                     </div>
@@ -771,7 +771,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
                                         безграничны</div>
                                     <div class="t001__title t-title t-title_xl t-animate"
                                         data-animate-style="fadeinup" data-animate-group="yes" field="title">
-                                        Трансформируйте знания <br />в конкурентное преимущество <br />с OntologyAI
+                                        Трансформируйте знания <br />в конкурентное преимущество <br />с ITEAMSYSTEM
                                     </div>
                                     <div class="t001__descr t-descr t-descr_xl t001__descr_center t-animate"
                                         data-animate-style="fadeinup" data-animate-group="yes" field="descr">
@@ -812,7 +812,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
             <div class="t467">
                 <div class="t-container t-align_center">
                     <div class="t-col t-col_10 t-prefix_1">
-                        <div class="t467__title t-title t-title_lg t-margin_auto" field="title">OntologyAI</div>
+                        <div class="t467__title t-title t-title_lg t-margin_auto" field="title">ITEAMSYSTEM</div>
                         <div class="t467__descr t-descr t-descr_xl t-margin_auto" field="descr">Мы создали передовую
                             платформу, которая объединяет технологии искусственного интеллекта и структурированных
                             знаний, чтобы помочь организациям ускорить цифровую трансформацию и повысить
@@ -837,7 +837,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
                 <div class="t-section__container t-container t-container_flex">
                     <div class="t-col t-col_12 ">
                         <div class="t-section__title t-title t-title_xs t-align_center t-margin_auto" field="btitle">
-                            Что такое OntolgyAI?</div>
+                            Что такое ITEAMSYSTEM?</div>
                         <div class="t-section__descr t-descr t-descr_xl t-align_center t-margin_auto" field="bdescr">
                             Это комплекс экспертных знаний в области стратегического управления и передовых технологий
                         </div>
@@ -922,7 +922,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
                 <div class="t-section__container t-container t-container_flex">
                     <div class="t-col t-col_12 ">
                         <div class="t-section__title t-title t-title_xs t-align_center t-margin_auto" field="btitle">
-                            Как OntologyAI работает для вас?</div>
+                            Как ITEAMSYSTEM работает для вас?</div>
                         <div class="t-section__descr t-descr t-descr_xl t-align_center t-margin_auto" field="bdescr">
                             Это ваш помощник в создании сильной управленческой команды и принятии управленческих решений
                         </div>
@@ -1252,7 +1252,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
                         <div class="t-section__title t-title t-title_xs t-align_center t-margin_auto" field="btitle">
                             Наша команда</div>
                         <div class="t-section__descr t-descr t-descr_xl t-align_center t-margin_auto" field="bdescr">
-                            Команда OntologyAI объединяет передовые компетенции в области искусственного интеллекта,
+                            Команда ITEAMSYSTEM объединяет передовые компетенции в области искусственного интеллекта,
                             обработки естественного языка, семантических технологий и управления знаниями, глубокая
                             экспертиза в стратегическом менеджменте и широком спектре управленческих технологий.</div>
                     </div>
@@ -1868,35 +1868,14 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
                         <div class="t551__title t-name t-name_xs" field="title" data-animate-order="1">МЫ ВСЕГДА
                             ОТКРЫТЫ К ОБЩЕНИЮ<br /></div>
                         <div class="t551__contacts t-title t-title_xxs" field="text" data-animate-order="2"
-                            data-animate-delay="0.3">welcome@iteamsystem.com<br />+421 499 436 496</div>
+                            data-animate-delay="0.3">welcome@iteamsystem.com<br />+421 949 436 496</div>
                         <div class="t-sociallinks">
                             <ul role="list" class="t-sociallinks__wrapper" aria-label="Social media links">
                                 <!-- new soclinks -->
-                                <li class="t-sociallinks__item t-sociallinks__item_twitter"><a href="/"
-                                        target="_blank" rel="nofollow" aria-label="twitter"
-                                        style="width: 48px; height: 48px;"><svg class="t-sociallinks__svg"
-                                            role="presentation" xmlns="http://www.w3.org/2000/svg" width=48px
-                                            height=48px viewBox="0 0 48 48">
-                                            <g clip-path="url(#clip0_3697_102)">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M24 48C37.2548 48 48 37.2548 48 24C48 10.7452 37.2548 0 24 0C10.7452 0 0 10.7452 0 24C0 37.2548 10.7452 48 24 48ZM33.3482 14L25.9027 22.4686H25.9023L34 34H28.0445L22.5915 26.2348L15.7644 34H14L21.8082 25.1193L14 14H19.9555L25.119 21.3532L31.5838 14H33.3482ZM22.695 24.1101L23.4861 25.2173V25.2177L28.8746 32.7594H31.5847L24.9813 23.5172L24.1902 22.4099L19.1103 15.2997H16.4002L22.695 24.1101Z"
-                                                    fill="#ffffff" />
-                                            </g>
-                                            <defs>
-                                                <clipPath id="clip0_3697_102">
-                                                    <rect width="48" height="48" fill="white" />
-                                                </clipPath>
-                                            </defs>
-                                        </svg></a></li>&nbsp;<li class="t-sociallinks__item t-sociallinks__item_vk"><a
-                                        href="/" target="_blank" rel="nofollow" aria-label="vk"
-                                        style="width: 48px; height: 48px;"><svg class="t-sociallinks__svg"
-                                            role="presentation" width=48px height=48px viewBox="0 0 100 100"
-                                            fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                d="M50 100c27.614 0 50-22.386 50-50S77.614 0 50 0 0 22.386 0 50s22.386 50 50 50ZM25 34c.406 19.488 10.15 31.2 27.233 31.2h.968V54.05c6.278.625 11.024 5.216 12.93 11.15H75c-2.436-8.87-8.838-13.773-12.836-15.647C66.162 47.242 71.783 41.62 73.126 34h-8.058c-1.749 6.184-6.932 11.805-11.867 12.336V34h-8.057v21.611C40.147 54.362 33.838 48.304 33.556 34H25Z"
-                                                fill="#ffffff" />
-                                        </svg></a></li>&nbsp;<li
-                                    class="t-sociallinks__item t-sociallinks__item_telegram"><a href="/"
+                                 &nbsp;
+                                        <li
+                                    class="t-sociallinks__item t-sociallinks__item_telegram">
+                                    <a href="/"
                                         target="_blank" rel="nofollow" aria-label="telegram"
                                         style="width: 48px; height: 48px;"><svg class="t-sociallinks__svg"
                                             role="presentation" width=48px height=48px viewBox="0 0 100 100"
@@ -1936,10 +1915,8 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#D9000000', en
     <div class="t-tildalabel " id="tildacopy" data-tilda-sign="10532987#54537485"><a href=""
             class="t-tildalabel__link">
             <div class="t-tildalabel__wrapper">
-                <div class="t-tildalabel__txtleft">Made on </div>
-                <div class="t-tildalabel__wrapimg"><img src="https://static.tildacdn.com/img/tildacopy.png"
-                        class="t-tildalabel__img" fetchpriority="low" alt=""></div>
-                <div class="t-tildalabel__txtright">OntologyAI</div>
+
+                <div class="t-tildalabel__txtright">Copyright © ITEAMSYSTEM</div>
             </div>
         </a></div><!-- Stat -->
     <script type="text/javascript">
