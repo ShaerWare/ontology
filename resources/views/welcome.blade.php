@@ -7,13 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <!--metatextblock-->
     <title>Органическая база знаний менеджмента</title>
     <meta name="description" content="Система, которая изменит подходы к управлению организациями" />
-    <meta property="og:url" content="http://ontologyai.tilda.ws" />
+    <meta property="og:url" content="" />
     <meta property="og:title" content="Органическая база знаний менеджмента" />
     <meta property="og:description" content="Система, которая изменит подходы к управлению организациями" />
     <meta property="og:type" content="website" />
     <meta property="og:image"
         content="https://thb.tildacdn.com/tild6262-3638-4463-b834-653838363134/-/resize/504x/__2024-09-28__211121.png" />
-    <link rel="canonical" href="http://ontologyai.tilda.ws"><!--/metatextblock-->
+    <link rel="canonical" href=""><!--/metatextblock-->
     <meta name="format-detection" content="telephone=no" />
     <meta http-equiv="x-dns-prefetch-control" content="on">
     <link rel="dns-prefetch" href="https://ws.tildacdn.com">
@@ -587,7 +587,7 @@
                 <div class="t228__maincontainer " style="height:100px;">
                     <div class="t228__padding40px"></div>
                     <div class="t228__leftside">
-                        <div class="t228__leftcontainer"><a href="http://tilda.cc" class="t228__imgwrapper">
+                        <div class="t228__leftcontainer"><a href="" class="t228__imgwrapper">
                                 <div class="t228__logo t-title" field="title">PBD CONSULTING</div>
                             </a></div>
                     </div>
