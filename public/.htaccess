@@ -5,7 +5,7 @@
 
     RewriteEngine On
 
-    RewriteRule ^(.*)$ public/$1 [L]
+    RewriteRule ^(.*)$ /$1 [L]
 
     # Redirect to HTTPS
     RewriteCond %{HTTPS} !=on
@@ -13,7 +13,7 @@
 
     # Redirect Trailing Slashes...
     RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteRule ^(.*)/$ public/$1 [L,R=301]
+    RewriteRule ^(.*)/$ /$1 [L,R=301]
 
     # Handle Authorization Header
     RewriteCond %{HTTP:Authorization} .
